@@ -56,3 +56,10 @@ Best Model Performance
 
 * xgboost_kaggle_higgs_exp/main_plus_all/submissions.csv
 * AUC Score 0.68446 (best competition model scored 0.81471)
+
+
+Next Steps
+==========
+
+1. Positive Sample Weighting with DNN
+2. Parameter Sweep with ML models
