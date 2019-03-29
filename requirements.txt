@@ -1,0 +1,8 @@
+jupyter
+matplotlib
+numpy
+pandas
+scipy
+sklearn
+tensorflow
+pillow!=5.1.0
